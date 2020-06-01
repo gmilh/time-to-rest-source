@@ -1,0 +1,8 @@
+Third Party Assets
+
+Characters	- made with Fuse https://www.adobe.com/products/fuse.html
+Animations	- https://www.mixamo.com/
+Environment Art	- https://kenney.nl/
+SFX 		- https://www.pmsfx.com/sampler
+
+
